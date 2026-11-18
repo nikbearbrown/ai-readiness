@@ -1,0 +1,48 @@
+{
+  "title": "Working with AI (process)",
+  "_note": "Move: process-criteria; Edge E5. Add to the rubric of the designated AI activity. Grades the quality of engagement, not the product. Pick the criteria that match the activity; keep the total small (about 20-30% of the assignment). Rewrite descriptions in the course's own terms. Grading time: about 3 minutes per submission for all four.",
+  "criteria": [
+    {
+      "description": "Framed before prompting",
+      "long_description": "A dated prediction and the student's own framing (including the constraint or value that matters here) exist before the AI output, and were not rewritten after it.",
+      "points": 2,
+      "ratings": [
+        {"description": "Clear", "long_description": "Prediction and framing are specific and come first", "points": 2},
+        {"description": "Thin", "long_description": "Present but generic, or partly after the fact", "points": 1},
+        {"description": "Missing", "long_description": "No framing before the AI output", "points": 0}
+      ]
+    },
+    {
+      "description": "Audited before checking",
+      "long_description": "For the claims that matter, a verdict, a target and a mechanism are written before any lookup. A correct verdict with no mechanism earns partial credit.",
+      "points": 3,
+      "ratings": [
+        {"description": "Full", "long_description": "Verdict, target and mechanism for each important claim", "points": 3},
+        {"description": "Partial", "long_description": "Verdicts without mechanisms, or only some claims", "points": 2},
+        {"description": "Token", "long_description": "A general impression with no specific claims", "points": 1},
+        {"description": "Missing", "long_description": "Output accepted without audit", "points": 0}
+      ]
+    },
+    {
+      "description": "Checked independently",
+      "long_description": "Claims were checked against evidence independent of the AI (hand calculation, primary source, data, test). Another AI agreeing does not count. What was not checked is stated.",
+      "points": 3,
+      "ratings": [
+        {"description": "Independent", "long_description": "Independent checks, results recorded, unchecked items named", "points": 3},
+        {"description": "Partial", "long_description": "Some independent checks; gaps not named", "points": 2},
+        {"description": "Circular", "long_description": "Checked only with the same or another AI", "points": 1},
+        {"description": "None", "long_description": "No check", "points": 0}
+      ]
+    },
+    {
+      "description": "Kept, rejected and disclosed",
+      "long_description": "Says what was kept from the AI, what was rejected or overridden and why, and what the student added. Disclosure is honest and specific. Heavy AI use that is honestly disclosed can earn full credit.",
+      "points": 2,
+      "ratings": [
+        {"description": "Specific", "long_description": "Decisions and reasons are specific and traceable", "points": 2},
+        {"description": "Generic", "long_description": "Disclosure present but generic (\"used AI to help\")", "points": 1},
+        {"description": "Missing", "long_description": "No disclosure of decisions", "points": 0}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "northeastern-edge",
+  "name": "Northeastern University: Edge AI-ready course certification",
+  "short": "Edge",
+  "doc": "northeastern-edge.md",
+  "audit_heading": "Northeastern's Edge standards",
+  "standards": [
+    {"id": "E1", "name": "AI use policy in the syllabus (instructor and students)", "based_on": "policy"},
+    {"id": "E2", "name": "A module objective naming an AI readiness dimension", "based_on": "objective"},
+    {"id": "E3", "name": "A designated activity that requires AI", "based_on": "hands_on"},
+    {"id": "E4", "name": "A critique of the AI output in that activity", "based_on": "critique"},
+    {"id": "E5", "name": "A rubric that grades the process of working with AI", "based_on": "process_rubric"}
+  ],
+  "dimensions": [
+    {"id": "D1", "name": "Understanding AI and data"},
+    {"id": "D2", "name": "Critical thinking and judgment"},
+    {"id": "D3", "name": "Ethical and responsible use"},
+    {"id": "D4", "name": "Human creativity and innovation"}
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Glimmer",
+  "_note": "Move: glimmer; Edge E5. Dimensions from the Medhavi Glimmer spec (WHY, USEFULNESS, MECHANISM, DEFENSIBILITY, SPECIFICITY, 0-4 each, /20). No correctness dimension. The AI Use Disclosure is a gate with an instructor-set deduction, not a criterion. Grading time: about 6 minutes per submission.",
+  "criteria": [
+    {
+      "description": "Why",
+      "long_description": "Each key choice is justified against the alternatives.",
+      "points": 4,
+      "ratings": [
+        {"description": "4", "long_description": "Each key choice justified against alternatives", "points": 4},
+        {"description": "3", "long_description": "Some choices unexplained", "points": 3},
+        {"description": "2", "long_description": "Significant choices unjustified", "points": 2},
+        {"description": "1", "long_description": "Assertion without reasoning", "points": 1},
+        {"description": "0", "long_description": "No reasoning", "points": 0}
+      ]
+    },
+    {
+      "description": "Usefulness",
+      "long_description": "Someone else could act on it; the specifics make it real.",
+      "points": 4,
+      "ratings": [
+        {"description": "4", "long_description": "Useful to someone else; specifics make it real", "points": 4},
+        {"description": "3", "long_description": "Scope too narrow or too broad", "points": 3},
+        {"description": "2", "long_description": "Too generic to act on", "points": 2},
+        {"description": "1", "long_description": "Does not solve the stated problem", "points": 1},
+        {"description": "0", "long_description": "Does not address it", "points": 0}
+      ]
+    },
+    {
+      "description": "Mechanism",
+      "long_description": "The module's concept is used as a tool, not just named.",
+      "points": 4,
+      "ratings": [
+        {"description": "4", "long_description": "Concept used as a tool", "points": 4},
+        {"description": "3", "long_description": "Correct but surface-level", "points": 3},
+        {"description": "2", "long_description": "Referenced, not applied", "points": 2},
+        {"description": "1", "long_description": "Misapplied", "points": 1},
+        {"description": "0", "long_description": "Absent", "points": 0}
+      ]
+    },
+    {
+      "description": "Defensibility",
+      "long_description": "Anticipates how it could fail and states the trade-offs.",
+      "points": 4,
+      "ratings": [
+        {"description": "4", "long_description": "Anticipates failure; states trade-offs", "points": 4},
+        {"description": "3", "long_description": "Some anticipation", "points": 3},
+        {"description": "2", "long_description": "No limitations stated", "points": 2},
+        {"description": "1", "long_description": "Overstated certainty", "points": 1},
+        {"description": "0", "long_description": "No awareness of limits", "points": 0}
+      ]
+    },
+    {
+      "description": "Specificity",
+      "long_description": "Numbers, mechanisms, timelines and named alternatives throughout.",
+      "points": 4,
+      "ratings": [
+        {"description": "4", "long_description": "Specific throughout", "points": 4},
+        {"description": "3", "long_description": "Mostly specific", "points": 3},
+        {"description": "2", "long_description": "Mixed", "points": 2},
+        {"description": "1", "long_description": "Mostly generic", "points": 1},
+        {"description": "0", "long_description": "Could have been written without the entry point", "points": 0}
+      ]
+    }
+  ]
+}

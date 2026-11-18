@@ -1,0 +1,8 @@
+# Course exports and work folders are private: names, email addresses, account ids.
+*.imscc
+!tests/fixtures/**/*.imscc
+work/
+*-work/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,56 @@
+{
+  "title": "Frictional log",
+  "_note": "Move: frictional; Edge E5. Nik Bear Brown's Frictional rubric, criterion names verbatim from INFO 7375 prerequisites/frictional.md. Scored out of 10; scale to 10% of the assignment if the assignment is not 100 points (a 25-point assignment: each row 0.5). Grading time: about 2 minutes per log.",
+  "criteria": [
+    {
+      "description": "Attempts",
+      "long_description": "Specific attempts, each with what was expected. A failed attempt can earn full credit.",
+      "points": 2,
+      "ratings": [
+        {"description": "Specific and sufficient", "long_description": "Specific attempts, each with its expectation", "points": 2},
+        {"description": "Vague or incomplete", "long_description": "Activities named; expectations missing or generic", "points": 1},
+        {"description": "Absent", "long_description": "No attempts recorded", "points": 0}
+      ]
+    },
+    {
+      "description": "Friction and response",
+      "long_description": "Difficulty anchored to something specific (a value, a test, a line, a source), with what was done next, including abandoned approaches.",
+      "points": 2,
+      "ratings": [
+        {"description": "Specific and sufficient", "long_description": "Friction tied to a specific object, with the response", "points": 2},
+        {"description": "Vague or incomplete", "long_description": "General difficulty only, or friction with no response", "points": 1},
+        {"description": "Absent", "long_description": "No friction, checks or decisions recorded", "points": 0}
+      ]
+    },
+    {
+      "description": "Human and AI contributions",
+      "long_description": "Each contribution is bounded: what the tool or person produced, and what the student accepted, changed or rejected. Sessions with no help say so.",
+      "points": 2,
+      "ratings": [
+        {"description": "Specific and sufficient", "long_description": "Each contribution and the decision about it are stated", "points": 2},
+        {"description": "Vague or incomplete", "long_description": "Tool or person named without saying what was done with the output", "points": 1},
+        {"description": "Absent", "long_description": "No contribution record", "points": 0}
+      ]
+    },
+    {
+      "description": "Learning and uncertainty",
+      "long_description": "A specific change in understanding, and something named as still open.",
+      "points": 2,
+      "ratings": [
+        {"description": "Specific and sufficient", "long_description": "A specific change in understanding and an open question", "points": 2},
+        {"description": "Vague or incomplete", "long_description": "A generic learning statement, or nothing unresolved", "points": 1},
+        {"description": "Absent", "long_description": "Neither recorded", "points": 0}
+      ]
+    },
+    {
+      "description": "Traceable process",
+      "long_description": "Dated entries (retrospectives marked) that cite things a reviewer can open.",
+      "points": 2,
+      "ratings": [
+        {"description": "Specific and sufficient", "long_description": "Dated entries tied to evidence a reviewer can open", "points": 2},
+        {"description": "Vague or incomplete", "long_description": "Dated but not tied to evidence, or evidence undated", "points": 1},
+        {"description": "Absent", "long_description": "Undated and unconnected", "points": 0}
+      ]
+    }
+  ]
+}
